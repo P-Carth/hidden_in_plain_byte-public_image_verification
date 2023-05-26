@@ -464,7 +464,7 @@ While this application uses robust cryptographic techniques, it is a conceptual 
 **Contact:**
 - Author: **Preston Kirschner**
 - Socials: [LinkedIn](https://www.linkedin.com/in/preston-kirschner/) | [Github](https://github.com/P-carth) | [Twitter](https://twitter.com/Prestonk_)
-- Opensource project: [Huggingface](https://huggingface.co/spaces/P-carth/hidden_in_plain_byte-public_image_verification/blob/main/app.py)
+- Opensource project: [Huggingface](https://huggingface.co/spaces/P-carth/hidden_in_plain_byte-public_image_verification)
 - I would love to hear your feedback (positive or negative)! Please reach out on one of the socials above if you have questions or comments.
 """)
 
