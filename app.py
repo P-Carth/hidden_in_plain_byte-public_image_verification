@@ -442,8 +442,6 @@ Here's how the decryption process works:
 ## Potential Weaknesses of this Demo
 
 While this application uses robust cryptographic techniques, it is a conceptual demo and should only be used as such. With that said, here are some of the potential weaknesses of the demo:
-
-* **Encryption Key Security:** If the shared secret key from the ECC-based Diffie-Hellman exchange is compromised, an attacker could decrypt the hidden messages.
   
 * **Image Transmission:** The image must be transmitted without any form of lossy compression (such as JPEG compression), which could remove or alter the hidden data, so for the time being this demo is focused on `.png` images.
   
